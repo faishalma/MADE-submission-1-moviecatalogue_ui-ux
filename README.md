@@ -1,4 +1,4 @@
-# MADE-submission-1-moviecatalogue_ui-ux
+# MADE-submission-2-moviecatalogue_ui-ux
 
 ## Kriteria
   > Fitur yang harus ada pada aplikasi:
