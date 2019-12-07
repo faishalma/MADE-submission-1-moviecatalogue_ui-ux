@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Katalog Film</string>
+    <string name="title_movies">Film</string>
+    <string name="title_tvshow">Acara TV</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="image_poster">Gambar Poster</string>
+    <string name="date_relealesed">Tanggal Rilis</string>
+    <string name="icon_star">Nilai</string>
+    <string name="icon_runtime">Durasi</string>
+    <string name="rating">Nilai</string>
+    <string name="genre">Genres</string>
+    <string name="originLanguange">Bahasa</string>
+    <string name="title_movie">Judul Film</string>
+    <string name="overview">Lorem Ipsum lorem lorem lorem lazy dog Lorem Ipsum</string>
+    <string name="overtext">Kilasan Singkat</string>
+    <string name="change_language_settings">Ganti Bahasa</string>
+</resources>

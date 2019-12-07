@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="title_movies">Movies</string>
+    <string name="title_tvshow">TV Show</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="image_poster">Image Poster</string>
+    <string name="date_relealesed">Date Released</string>
+    <string name="icon_star">Rating</string>
+    <string name="icon_runtime">Runtime</string>
+    <string name="rating">Rating</string>
+    <string name="genre">Genres</string>
+    <string name="originLanguange">Languange</string>
+    <string name="title_movie">Title Movie</string>
+    <string name="overview">Lorem Ipsum lorem lorem lorem lazy dog Lorem Ipsum lorem lorem lorem lazy dog Lorem Ipsum lorem lorem lorem lazy dog
+    Lorem Ipsum lorem lorem lorem lazy dog Lorem Ipsum lorem lorem lorem lazy dog
+    Lorem Ipsum lorem lorem lorem lazy dog Lorem Ipsum lorem lorem lorem lazy dog
+    Lorem Ipsum lorem lorem lorem lazy dog Lorem Ipsum lorem lorem lorem lazy dog
+    Lorem Ipsum lorem lorem lorem lazy dog Lorem Ipsum lorem lorem lorem lazy dog</string>
+    <string name="overtext">Overwiew</string>
+    <string name="change_language_settings">Change Language</string>
+</resources>
